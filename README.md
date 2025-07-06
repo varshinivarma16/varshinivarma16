@@ -41,10 +41,10 @@
 ## 🔥 Popular Repositories:
 | Project | Tech Stack |
 |---------|------------|
-| **[Books Backend](https://github.com/varshinivarma16/Dynamic_Calendar)** | JavaScript, CSS |
-| **[Music Player](https://github.com/varshinivarma16/Music_Player)** | HTML, CSS, JS |
-| **[SAC DBMS](https://github.com/varshinivarma16/SAC_DBMS)** | Node.js, Express, MySQL |
-| **[Meme Generator](https://github.com/varshinivarma16/Meme-generator)** | HTML, CSS, JS |
+| **[File sharing](https://github.com/varshinivarma16/file_sharing_frontend)** | MongoDB, Express.js, Node.js, Multer, HTML, CSS |
+| **[Music Player](https://github.com/varshinivarma16/chat-app)** |HTML, CSS (Tailwind), JavaScript, MySQL, PHP, Express |
+| **[Reels Sharing](https://github.com/varshinivarma16/Insta_reels_pro)** | MongoDB, Express.js, TypeScript, Next.js, NextAuth |
+| 
 
 ---
 
